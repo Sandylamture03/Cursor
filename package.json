@@ -1,0 +1,36 @@
+{
+  "name": "cursor",
+  "version": "1.0.0",
+  "description": "for practice namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandylamture03/Cursor.git"
+  },
+  "keywords": [
+    "react-js",
+    "namaste-react"
+  ],
+  "author": "Sandy lamture",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandylamture03/Cursor/issues"
+  },
+  "homepage": "https://github.com/Sandylamture03/Cursor#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
